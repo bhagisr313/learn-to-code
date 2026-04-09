@@ -1,4 +1,4 @@
-# Check if number is positive/negative/zero
+# Problem 6 : Check if number is positive/negative/zero
 num = 5
 if num > 0:
     print("Positive")
@@ -7,14 +7,14 @@ elif num < 0:
 else:
     print("Zero")
 
-# Check even or odd
+# Problem 7 : Check even or odd
 num = 4
 if num % 2 == 0:
     print("Even")
 else:   
     print("Odd")
 
-# Find greatest of two numbers
+# Problem 8 : Find greatest of two numbers
 num1 = 90
 num2 = 90
 if num1 > num2:
@@ -24,7 +24,7 @@ elif num1 == num2:
 else:
     print(num2)
 
-# Find greatest of three numbers
+# Problem 9 : Find greatest of three numbers
 num1 = 105
 num2 = 105
 num3 = 15
@@ -35,7 +35,7 @@ elif num2 >= num1 and num2 >= num3:
 else:
     print(num3)
 
-# Check leap year
+# Problem 10 : Check leap year
 year = 1900
 if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
     print("It's a leap year")
