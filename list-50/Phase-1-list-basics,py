@@ -1,0 +1,44 @@
+# Problem 1 : Create a list of 10 numbers and print it
+my_list = [int(i) for i in range(1,11)]
+print(my_list)
+
+# Problem 2 : Access elements using index (first, last, middle)
+my_list = [int(i) for i in range(1,11)]
+print(my_list[len(my_list)//2])
+
+# Problem 3 : Slice a list (first 5 elements)
+my_list = [int(i) for i in range(1,11)]
+print(my_list[:5])
+
+# Problem 4 : Slice last 5 elements
+my_list = [int(i) for i in range(1,11)]
+print(my_list[-5:])
+
+# Problem 5 : Add element using append()
+my_list = []
+my_list.append('bh')
+print(my_list)
+
+# Problem 6 : Insert element at specific index
+my_list = list(range(1,11))
+my_list.insert(1,'b') # Inserts at index 1
+print(my_list)
+
+# Problem 7 : Remove element by value
+my_list = list(range(1,11))
+my_list.remove(8)# Removes the element specified
+print(my_list)
+
+# Problem 8 : Remove element by index (pop)
+my_list = list(range(1,11))
+my_list.pop(2) # Removes the element present at index specified
+print(my_list)
+
+# Problem 9 : Find length of list
+my_list = list(range(1,11))
+print(len(my_list))
+
+# Problem 10 : Iterate through list using loop
+my_list = list(range(1,11))
+for i in my_list:
+    print(i)
