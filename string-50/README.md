@@ -28,6 +28,29 @@ Check if string contains only alphabets
 Check if string contains only digits
 Check if string is alphanumeric
 
+Phase 1 & 2 pratice questions:
+
+Check if a string is a palindrome (ignore spaces & case)
+Find the longest word in a sentence
+Reverse words in a sentence (not characters)
+Remove all duplicate characters from a string
+Find the first repeated character
+Count number of words in a sentence (handle multiple spaces)
+Capitalize first letter of each word (like title case manually)
+Check if two strings are rotations of each other
+Compress string (e.g., "aaabbc" → "a3b2c1")
+Find longest substring without repeating characters
+Check if a string contains all unique characters
+Find the most frequent word in a paragraph
+Replace multiple spaces with a single space
+Check if string is a valid palindrome after removing one char
+Find all substrings of a string
+Count occurrences of each word (not char)
+Find the second most frequent character
+Check if one string is a subsequence of another
+Group anagrams from a list of strings
+Find the longest common prefix among list of strings
+
 🔹 PHASE 3: CHARACTER FREQUENCY (VERY IMPORTANT) — 21–30
 
 Goal: Build core interview logic using strings

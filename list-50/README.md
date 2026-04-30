@@ -28,6 +28,29 @@ Count occurrences of a number
 Check if element exists in list
 Copy list without reference issue
 
+Phase 1 & 2 pratice problems:
+
+Remove duplicates from list (keep order)
+Find second largest number
+Find all pairs with given sum
+Move all zeros to end (maintain order of others)
+Rotate list by K steps (right rotation)
+Find intersection of two lists
+Find union of two lists (no duplicates)
+Find missing number from 1 to N
+Find all duplicates in list
+Merge two sorted lists into one sorted list
+Find subarray with given sum
+Kadane’s Algorithm (maximum subarray sum)
+Check if list is palindrome
+Flatten a nested list (1 level first, then recursive if you can)
+Find majority element (> n/2 times)
+Split list into chunks of size K
+Rearrange positives and negatives alternatively
+Find longest consecutive sequence
+Product of array except self
+Sort list based on frequency of elements
+
 🔹 PHASE 3: PATTERN BUILDING (VERY IMPORTANT) — 21–30
 
 Goal: Learn core interview patterns

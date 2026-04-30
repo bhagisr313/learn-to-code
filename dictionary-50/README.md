@@ -28,6 +28,28 @@ Check if two strings are anagrams (using dict)
 Count words in a sentence
 Top K frequent elements (start with K=1 or 2)
 
+Phase 1 & 2 pratice problems:
+Invert a dictionary (values → keys)
+Merge two dictionaries (handle same keys by summing values)
+Find key with maximum value
+Sort dictionary by values
+Group words by length using dict
+Create dict from two lists (keys + values)
+Count frequency of characters across multiple strings
+Build a phonebook (name → multiple numbers)
+Find duplicate values in dictionary
+Convert list of tuples into dictionary
+Group students by grades (grade → list of students)
+Count frequency of words across multiple sentences
+Check if two dictionaries are equal
+Remove keys with specific value
+Nested dictionary: store student marks (name → subject → marks)
+Find common keys in two dictionaries
+Find keys present in one dict but not the other
+Build LRU cache simulation (basic version using dict)
+Top K frequent words using dict + sorting
+Detect if dictionary values are unique
+
 🔹 PHASE 3: HashMap Thinking (Optimization mindset) — 21–30
 
 Goal: Replace brute force with smart lookup
